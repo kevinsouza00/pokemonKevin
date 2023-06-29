@@ -25,7 +25,7 @@ const PokemonDetails = () => {
   }
 
   const handleGoBack = () => {
-    window.history.back(); // Voltar para a página anterior
+    window.history.back(); 
   };
 
   return (
